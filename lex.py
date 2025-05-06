@@ -70,7 +70,7 @@ def test_lexer(input_string):
         print(tok)
 
 if __name__ == '__main__':
-    print("Probando lexer (escribe 'salir' para terminar):")
+    print("Ingrese una cadena")
     while True:
         data = input("> ")
         if data.lower() == 'salir':
