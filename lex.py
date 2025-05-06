@@ -32,7 +32,6 @@ t_DIVIDE   = r'/'
 t_LPAREN   = r'\('
 t_RPAREN   = r'\)'
 t_EQUALS   = r'='
-t_COMPARISON = r'==|!=|<=|>=|<|>'
 t_LBRACE   = r'\{'
 t_RBRACE   = r'\}'
 
